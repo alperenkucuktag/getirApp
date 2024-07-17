@@ -11,12 +11,12 @@
 2. **React Native**: Framework for mobile application development.
 3. **React Navigation**: Library for in-app navigation.
 4. **Redux**: State management library for application state.
-5. **@react-native-masked-view/masked-view**: ^0.3.1
-6. **@react-navigation/bottom-tabs**: ^6.6.0
-7. **@react-navigation/native**: ^6.1.17
-8. **@react-navigation/stack**: ^6.4.0
-9. **@redux-devtools/extension**: ^3.3.0
-10. **@reduxjs/toolkit**: ^2.2.6
+5. **react-native-masked-view/masked-view**: ^0.3.1
+6. **react-navigation/bottom-tabs**: ^6.6.0
+7. **react-navigation/native**: ^6.1.17
+8. **react-navigation/stack**: ^6.4.0
+9. **redux-devtools/extension**: ^3.3.0
+10. **reduxjs/toolkit**: ^2.2.6
 11. **Expo Status Bar**: ~1.12.1
 12. **React**: 18.2.0
 13. **React Native Confetti Cannon**: ^1.5.2
