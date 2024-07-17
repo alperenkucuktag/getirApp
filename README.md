@@ -1,6 +1,8 @@
 # getirMobileclone
 
 
+# Libraries :
+
 @react-native-masked-view/masked-view: "^0.3.1" 🎭
 @react-navigation/bottom-tabs: "^6.6.0" 🛳️
 @react-navigation/native: "^6.1.17" 📍
